@@ -13,7 +13,7 @@ Tech Stack
 Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Flask/Streamlit
 
 How to Run
-Clone repo: git clone https://github.com/AparnaBhardwaj/Heart-Disease-Prediction.git
+Clone repo: git clone https://github.com/shubhankersoni2006-glitch
 Install dependencies: pip install -r requirements.txt
 Run app: python app.py → Open http://localhost:5000
 Dataset
@@ -25,8 +25,8 @@ Packages
 No packages published
 Contributors
 1
-@AparnaBhardwaj
-AparnaBhardwaj
+@shubhankersoni2006-glitch
+shubhankersoni2006-glitch
 Languages
 Jupyter Notebook
 99.8%
